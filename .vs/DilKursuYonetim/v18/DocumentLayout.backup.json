@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MUHAMMED_SEFA_DESKTOP_PROJECTS_DILKURSUYONETIM_WINDOWSFORMSAPP6_KURSDB.MDF/True/SqlTable/dbo.OgrenciTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MUHAMMED_SEFA_DOCUMENTS_KURSDB.MDF/True/SqlTable/dbo.OgrenciTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|c:\\users\\muhammed sefa\\desktop\\projects\\dilkursuyonetim\\windowsformsapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\kayityonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\kayityonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\kayityonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\kayityonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\ogrenciyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\ogrenciyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\ogrenciyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\ogrenciyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\ogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\ogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\ogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\ogrenciyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\puanyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\puanyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\yenikurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\yenikurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\kursyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\kursyazdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\yenipuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\yenipuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\puanyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\puanyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A3C2E91-4B8D-4F6A-9C1E-5D2B8F0A3E47}|WindowsFormsApp6\\WindowsFormsApp6.csproj|solutionrelative:windowsformsapp6\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\windowsformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:windowsformsapp6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.OgrenciTbl [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MUHAMMED_SEFA_DESKTOP_PROJECTS_DILKURSUYONETIM_WINDOWSFORMSAPP6_KURSDB.MDF/True/SqlTable/dbo.OgrenciTbl.sql",
+              "ToolTip": "dbo.OgrenciTbl [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-05T20:54:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.OgrenciTbl [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MUHAMMED_SEFA_DOCUMENTS_KURSDB.MDF/True/SqlTable/dbo.OgrenciTbl.sql",
+              "ToolTip": "dbo.OgrenciTbl [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-05T20:54:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KayitYonetim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\KayitYonetim.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\KayitYonetim.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\KayitYonetim.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\KayitYonetim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YeniKurs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\YeniKurs.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\YeniKurs.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\YeniKurs.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\YeniKurs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Kayit.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Kayit.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Kayit.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\Kayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:15:35.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PuanYonetim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\PuanYonetim.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\PuanYonetim.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\PuanYonetim.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\PuanYonetim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kayit.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Kayit.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Kayit.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Kayit.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Kayit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:23:25.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OgrenciYonetim.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYonetim.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\OgrenciYonetim.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYonetim.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\OgrenciYonetim.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwF4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:41:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciYazdir.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYazdir.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\OgrenciYazdir.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYazdir.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\OgrenciYazdir.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:08:38.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KayitYonetim.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\KayitYonetim.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\KayitYonetim.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\KayitYonetim.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\KayitYonetim.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:43:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OgrenciYazdir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYazdir.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\OgrenciYazdir.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYazdir.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\OgrenciYazdir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrenciYonetim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYonetim.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\OgrenciYonetim.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\OgrenciYonetim.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\OgrenciYonetim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KursYazdir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\KursYazdir.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\KursYazdir.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\KursYazdir.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\KursYazdir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YeniPuan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\YeniPuan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\YeniPuan.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\YeniPuan.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\YeniPuan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PuanYazdir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\PuanYazdir.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\PuanYazdir.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\PuanYazdir.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\PuanYazdir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.715Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Anasayfa.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\Anasayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:00:15.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Muhammed Sefa\\Desktop\\projects\\DilKursuYonetim\\WindowsFormsApp6\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:39:38.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
